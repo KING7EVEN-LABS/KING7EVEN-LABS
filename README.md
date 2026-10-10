@@ -5,7 +5,7 @@
 
 
 
-<table border="0" style="border: none; background-color: #1a0508; border-radius: 12px; padding: 15px;">
+<table border="0" style="border: none; background-color: #dd2049;; border-radius: 12px; padding: 15px;">
   <tr>
     <td width="65%" valign="top" style="border: none;">
       <p style="color: #ffffff;">I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware and embedded systems.</p>
@@ -30,6 +30,11 @@
   <img alt="Animated gif showcasing dark and light mode toggle" src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="260" alt="Tech Circuit Animation" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KING7EVEN-LABS/KING7EVEN-LABS/output/pacman-contribution-graph-dark.svg">

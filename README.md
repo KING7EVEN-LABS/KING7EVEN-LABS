@@ -2,18 +2,28 @@
   <img src="assets/KING7EVEN_butterfly_flow_loop.gif" alt="PCB Header Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
-<div align="center">
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300" alt="NUX_Octodex" />
 
-I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware and embedded systems.
 
-* 🔭 **Currently working on:** 4-Layer PCB Designs, Microcontroller Breakouts (ATmega2560, ESP32-S3)
-* 🌱 **Actively learning:** Embedded IoT, VLSI Basics & Verilog
-* 💬 **Ask me about:** Schematic Design, Custom Footprints, Altium Designer, KiCad, Layer Stackups
-* 👯 **Open to collaborating on:** Open-source Hardware, PCB Layouts & Embedded Systems Projects
-* ⚡ **Fun fact:** I love designing custom electronic hardware from scratch!
 
-<br clear="right" />
+<table border="0" style="border: none; background-color: #1a0508; border-radius: 12px; padding: 15px;">
+  <tr>
+    <td width="65%" valign="top" style="border: none;">
+      <p style="color: #ffffff;">I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware and embedded systems.</p>
+      <ul>
+        <li>🔭 <b>Currently working on:</b> 4-Layer PCB Designs, Microcontroller Breakouts (ATmega2560, ESP32-S3)</li>
+        <li>🌱 <b>Actively learning:</b> Embedded IoT, VLSI Basics & Verilog</li>
+        <li>💬 <b>Ask me about:</b> Schematic Design, Custom Footprints, Altium Designer, KiCad, Layer Stackups</li>
+        <li>👯 <b>Open to collaborating on:</b> Open-source Hardware, PCB Layouts & Embedded Systems Projects</li>
+        <li>⚡ <b>Fun fact:</b> I love designing custom electronic hardware from scratch!</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle" style="border: none;">
+      <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="260" alt="NUX_Octodex" />
+    </td>
+  </tr>
+</table>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">

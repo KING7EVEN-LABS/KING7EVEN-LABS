@@ -10,7 +10,7 @@
   <img alt="Animated gif showcasing dark and light mode toggle" src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
 </picture>
 
-### 👾 ────── |🎮Pacman Contribution🎮| ────── 👻
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KING7EVEN-LABS/KING7EVEN-LABS/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KING7EVEN-LABS/KING7EVEN-LABS/output/pacman-contribution-graph.svg">

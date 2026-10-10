@@ -2,12 +2,12 @@
 
 <table>
   <tr>
-    <td width="65%" valign="top" style="border: none;">
+    <td width="75%" valign="top" style="border: none;">
       <p align="center">
         <img src="assets/KING7EVEN_kousik_flat.gif" alt="PCB Header Banner" width="100%" style="border-radius: 10px;" />
       </p>
     </td>
-    <td width="35%" align="center" valign="middle" style="border: none;">
+    <td width="25%" align="center" valign="middle" style="border: none;">
       <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="260" alt="NUX_Octodex" />
     </td>
   </tr>

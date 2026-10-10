@@ -1,8 +1,17 @@
-<p align="center">
-  <img src="assets/KING7EVEN_kousik_flat.gif" alt="PCB Header Banner" width="100%" style="border-radius: 10px;" />
-</p>
 
 
+<table border="0" style="border: none; background-color: #dd2049;; border-radius: 12px; padding: 15px;">
+  <tr>
+    <td width="65%" valign="top" style="border: none;">
+      <p align="center">
+        <img src="assets/KING7EVEN_kousik_flat.gif" alt="PCB Header Banner" width="100%" style="border-radius: 10px;" />
+      </p>
+    </td>
+    <td width="35%" align="center" valign="middle" style="border: none;">
+      <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="260" alt="NUX_Octodex" />
+    </td>
+  </tr>
+</table>
 
 
 <table border="0" style="border: none; background-color: #dd2049;; border-radius: 12px; padding: 15px;">
@@ -37,4 +46,3 @@
   </picture>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="220" alt="Tech Circuit GIF" />
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="260" alt="NUX_Octodex" />

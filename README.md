@@ -20,7 +20,7 @@
   <tr>
     <td align="center" style="border: none; background: transparent;">
       <h3 style="color: #ff4d6d; margin-bottom: 5px; font-family: monospace;">👾 PAC-MAN CONTRIBUTION GRAPH 👾</h3>
-      <p style="color: #ff758f; font-size: 12px; margin-top: 0px;">Pac-Man eating contribution dots</p>
+      <p style="color: #ff758f; font-size: 12px; margin-top: 0px;">Custom Colored Theme</p>
       <br>
       <img src="https://raw.githubusercontent.com/KING7EVEN-LABS/KING7EVEN-LABS/output/pacman-contribution-graph.svg" alt="Pac-Man Animation" width="100%" />
     </td>

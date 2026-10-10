@@ -2,8 +2,8 @@ name: Generate Bomberman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # 12 மணி நேரத்திற்கு ஒருமுறை தானாக புதுப்பிக்கப்படும்
-  workflow_dispatch: # Manual-ஆக ரன் பண்ணவும் உதவும்
+    - cron: "0 */12 * * *" # 12 மணி நேரத்திற்கு ஒருமுறை ரன் ஆகும்
+  workflow_dispatch: # Manual-ஆக ரன் பண்ண
   push:
     branches:
       - main
@@ -16,13 +16,14 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate Bomberman Contribution Graph
+      - name: Generate Bomberman Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          theme: bomberman # 👈 இங்கே 'bomberman' தீம் செட் செய்யப்பட்டுள்ளது
+          game: bomberman      # 💣 இங்கே 'bomberman' என மாற்றப்பட்டுள்ளது
+          gameTheme: github-dark # Dark theme-க்காக
 
-      - name: Push SVG to Output Branch
+      - name: Push Bomberman SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

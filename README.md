@@ -15,3 +15,6 @@
 </table>
 
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KING7EVEN-LABS/KING7EVEN-LABS/output/pacman-contribution-graph.svg" alt="Pac-Man Animation" width="100%" />
+</div>

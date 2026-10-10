@@ -1,9 +1,12 @@
-name: Generate Pacman Bomberman Contribution Graph
+name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # ஒவ்வொரு 12 மணி நேரத்திற்கும் ரன் ஆகும்
+    - cron: "0 */12 * * *" # 12 மணி நேரத்திற்கு ஒருமுறை தானாக ரன் ஆகும்
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
@@ -13,12 +16,12 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate pacman/bomberman contribution graph
+      - name: Generate Pacman SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Push generated SVG to output branch
+      - name: Push SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

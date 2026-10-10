@@ -1,0 +1,30 @@
+name: Generate Bomberman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # ஒவ்வொரு 12 மணி நேரத்திற்கும் தானாக ரன் ஆகும்
+  workflow_dispatch: # நீங்களாகவே Manual-ஆக ரன் செய்ய உதவும்
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate Bomberman SVG
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Push Bomberman SVG to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,6 +1,6 @@
 
 
-<table border="0" style="border: none; background-color: #dd2049;; border-radius: 12px; padding: 15px;">
+<table>
   <tr>
     <td width="65%" valign="top" style="border: none;">
       <p align="center">

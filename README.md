@@ -4,7 +4,7 @@
   <tr>
     <td width="75%" valign="top" style="border: none;">
       <p align="center">
-        <img src="assets/KING7EVEN_kousik.gif" alt="PCB Header Banner" width="100%" style="border-radius: 10px;" />
+        <img src="assets/KING7EVEN_kousik_flat.gif" alt="PCB Header Banner" width="100%" style="border-radius: 10px;" />
       </p>
     </td>
     <td width="25%">

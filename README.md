@@ -14,7 +14,17 @@
   </tr>
 </table>
 
-</div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KING7EVEN-LABS/KING7EVEN-LABS/output/pacman-contribution-graph.svg" alt="Pac-Man Animation" width="100%" />
+
+<table border="1" style="background-color: #161922; border-radius: 12px; border: 2px solid #ff4d6d; padding: 15px; box-shadow: 0 0 15px rgba(255, 77, 109, 0.3);">
+  <tr>
+    <td align="center" style="border: none; background-color: #161922;">
+      <h3 style="color: #ff4d6d; margin-bottom: 5px; font-family: monospace;">💣 Bomberman Contribution Graph</h3>
+      <p style="color: #a81335; font-size: 12px; margin-top: 0px;">Blast Contribution Cells</p>
+      <br>
+      <img src="https://raw.githubusercontent.com/KING7EVEN-LABS/KING7EVEN-LABS/output/pacman-contribution-graph.svg" alt="Bomberman Animation" width="100%" />
+    </td>
+  </tr>
+</table>
+
 </div>

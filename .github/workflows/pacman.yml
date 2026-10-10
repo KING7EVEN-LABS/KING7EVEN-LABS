@@ -16,15 +16,11 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate Custom Pacman SVG
+      - name: Generate Pacman SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          # கலர்களை இங்கு மாற்றிக்கொள்ளலாம்:
-          color_snake: '#ff4d6d'        # Pac-man/Snake போகிற பாதை அல்லது ஹைலைட் கலர்
-          color_dots: '#ff758f'         # சாப்பிடக்கூடிய dots (points) கலர்
-          color_bg: '#161922'           # SVG-ன் Background கலர் (Dark PCB look)
-          color_lines: 'rgba(255, 77, 109, 0.2)' # கட்டங்களுக்கு இடையே உள்ள கோடுகளின் (lines) கலர்
+          gameTheme: 'github-dark' 
 
       - name: Push SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

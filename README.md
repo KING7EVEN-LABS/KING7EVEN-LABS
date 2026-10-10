@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<table border="1" style="background-color: rgba(255, 77, 109, 0.15); border-radius: 12px; border: 2px solid #ff4d6d; padding: 15px; box-shadow: 0 0 15px rgba(255, 77, 109, 0.4);">
+<table border="1" style="background-color: rgba(255, 77, 109, 0.15); border-radius: 12px; border: 2px solid #ff4d6d; padding: 15px; box-shadow: 0 0 15px rgba(255, 77, 109, 0.3);">
   <tr>
     <td align="center" style="border: none; background: transparent;">
       <h3 style="color: #ff4d6d; margin-bottom: 5px; font-family: monospace;">👾 PAC-MAN CONTRIBUTION GRAPH 👾</h3>

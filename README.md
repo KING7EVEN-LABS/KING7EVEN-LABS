@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 👾 ........ 👻|🎮Pacman🎮|
+### 👾 ────── 👻|🎮Pacman Contribution🎮|
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KING7EVEN-LABS/KING7EVEN-LABS/output/pacman-contribution-graph-dark.svg">

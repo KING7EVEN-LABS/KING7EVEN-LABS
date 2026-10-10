@@ -30,6 +30,8 @@
 </div>
 <div align="center">
 
+<div align="center">
+
 <table border="1" style="background-color: #161922; border-radius: 12px; border: 2px solid #ff4d6d; padding: 15px; box-shadow: 0 0 15px rgba(255, 77, 109, 0.3);">
   <tr>
     <td align="center" style="border: none; background-color: #161922;">

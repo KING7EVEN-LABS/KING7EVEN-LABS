@@ -5,8 +5,11 @@
 
 
 
-> ### 💡 About Me
-> 
+<div align="left">
+### 💡 About Me
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
 > I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware and embedded systems.
 > 
 > * 🖥️ **Currently working on:** 4-Layer PCB Designs, Microcontroller Breakouts (ATmega2560, ESP32-S3)
@@ -15,30 +18,36 @@
 > * 👥 **Open to collaborating on:** Open-source Hardware, PCB Layouts & Embedded Systems Projects
 > * ⚡ **Fun fact:** I love designing custom electronic hardware from scratch!
 
+    </td>
+    <td width="50%" valign="top">
+      <!-- Right Side Empty -->
+    </td>
+  </tr>
+</table>
+</div>
 
 ### 📊 Stats and Activity
 
-#### 🔥 Streak Stats
-
-<p align="left">
-  <a href="https://github.com/KING7EVEN-LABS">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KING7EVEN-LABS&theme=radical&hide_border=false" alt="GitHub Streak Stats" width="50%" />
-  </a>
-</p>
-
-#### 💻 GitHub Profile Stats
-
-<p align="left">
-  <a href="https://github.com/KING7EVEN-LABS">
-    <img src="https://github-readme-stats.vercel.app/api?username=KING7EVEN-LABS&show_icons=true&theme=radical&rank_icon=github&hide_border=false" alt="GitHub Stats" width="50%" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/KING7EVEN-LABS">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KING7EVEN-LABS&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="50%" />
-  </a>
-</p>
+<table>
+  <tr>
+    <!-- Left Side: Streak Stats & Profile Stats -->
+    <td width="50%" valign="top">
+      <a href="https://github.com/KING7EVEN-LABS">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KING7EVEN-LABS&theme=radical&hide_border=false" alt="GitHub Streak Stats" width="100%" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/KING7EVEN-LABS">
+        <img src="https://github-readme-stats.vercel.app/api?username=KING7EVEN-LABS&show_icons=true&theme=radical&rank_icon=github&hide_border=false" alt="GitHub Stats" width="100%" />
+      </a>
+    </td>
+    <!-- Right Side: Most Used Languages -->
+    <td width="50%" valign="top">
+      <a href="https://github.com/KING7EVEN-LABS">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KING7EVEN-LABS&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <picture>

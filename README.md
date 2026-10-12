@@ -47,6 +47,23 @@ I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware
   </tr>
 </table>
 
+### 🛠️ Featured Projects & Repositories
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/KING7EVEN-LABS/PCB-DESIGN/ALTIUM DESIGN">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KING7EVEN-LABS&repo=your-repo-1&title_color=f21d47&icon_color=f21d47&text_color=ffffff&bg_color=0d1117&border_color=f21d47&show_owner=false" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/KING7EVEN-LABS/your-repo-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KING7EVEN-LABS&repo=your-repo-2&title_color=f21d47&icon_color=f21d47&text_color=ffffff&bg_color=0d1117&border_color=f21d47&show_owner=false" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KING7EVEN-LABS/KING7EVEN-LABS/output/pacman-contribution-graph-dark.svg">

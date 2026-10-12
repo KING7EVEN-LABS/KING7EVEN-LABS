@@ -46,13 +46,10 @@ I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware
     </td>
   </tr>
 </table>
-
-### 🛠️ Featured Projects & Repositories
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/KING7EVEN-LABS/PCB-DESIGN/tree/main/ALTIUM%20DESIGN">
+      <a href="https://github.com/KING7EVEN-LABS/PCB-DESIGN">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=KING7EVEN-LABS&repo=PCB-DESIGN&title_color=f21d47&icon_color=f21d47&text_color=ffffff&bg_color=0d1117&border_color=f21d47&show_owner=false" width="100%" />
       </a>
     </td>

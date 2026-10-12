@@ -1,17 +1,7 @@
 
-
-<table>
-  <tr>
-    <td width="75%" valign="top" style="border: none;">
-      <p align="center">
+<p align="center">
         <img src="assets/KING7EVEN_kousik.gif" alt="PCB Header Banner" width="100%" style="border-radius: 10px;" />
-      </p>
-    </td>
-    <td width="25%">
-      <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="260" alt="NUX_Octodex" />
-    </td>
-  </tr>
-</table>
+</p>
 
 
 <table border="0" style="border: none; background-color: #dd2049;; border-radius: 12px; padding: 15px;">

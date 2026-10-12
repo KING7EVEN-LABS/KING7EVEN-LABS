@@ -5,26 +5,26 @@
 
 
 
-<div align="left">
 ### 💡 About Me
-<table width="100%">
+
+<table>
   <tr>
     <td width="50%" valign="top">
-> I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware and embedded systems.
-> 
-> * 🖥️ **Currently working on:** 4-Layer PCB Designs, Microcontroller Breakouts (ATmega2560, ESP32-S3)
-> * 🌱 **Actively learning:** Embedded IoT, VLSI Basics & Verilog
-> * 💬 **Ask me about:** Schematic Design, Custom Footprints, Altium Designer, KiCad, Layer Stackups
-> * 👥 **Open to collaborating on:** Open-source Hardware, PCB Layouts & Embedded Systems Projects
-> * ⚡ **Fun fact:** I love designing custom electronic hardware from scratch!
+
+I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware and embedded systems.
+
+* 🖥️ **Currently working on:** 4-Layer PCB Designs, Microcontroller Breakouts (ATmega2560, ESP32-S3)
+* 🌱 **Actively learning:** Embedded IoT, VLSI Basics & Verilog
+* 💬 **Ask me about:** Schematic Design, Custom Footprints, Altium Designer, KiCad, Layer Stackups
+* 👥 **Open to collaborating on:** Open-source Hardware, PCB Layouts & Embedded Systems Projects
+* ⚡ **Fun fact:** I love designing custom electronic hardware from scratch!
 
     </td>
     <td width="50%" valign="top">
-      <!-- Right Side Empty -->
+      <!-- Right side 50% empty -->
     </td>
   </tr>
 </table>
-</div>
 
 ### 📊 Stats and Activity
 

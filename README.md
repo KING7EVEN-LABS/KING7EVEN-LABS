@@ -20,20 +20,23 @@
 
 #### 🔥 Streak Stats
 
-<a href="https://github.com/KING7EVEN-LABS">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KING7EVEN-LABS&theme=radical&hide_border=false" alt="GitHub Streak Stats" width="100%" />
-</a>
-
-<br/>
+<p align="left">
+  <a href="https://github.com/KING7EVEN-LABS">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KING7EVEN-LABS&theme=radical&hide_border=false" alt="GitHub Streak Stats" width="50%" />
+  </a>
+</p>
 
 #### 💻 GitHub Profile Stats
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/KING7EVEN-LABS">
-    <img src="https://github-readme-stats.vercel.app/api?username=KING7EVEN-LABS&show_icons=true&theme=radical&rank_icon=github&hide_border=false" alt="GitHub Stats" width="49.5%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KING7EVEN-LABS&show_icons=true&theme=radical&rank_icon=github&hide_border=false" alt="GitHub Stats" width="50%" />
   </a>
+</p>
+
+<p align="left">
   <a href="https://github.com/KING7EVEN-LABS">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KING7EVEN-LABS&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="49.5%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KING7EVEN-LABS&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="50%" />
   </a>
 </p>
 

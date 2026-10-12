@@ -7,13 +7,13 @@
 
 > ### 💡 About Me
 > 
-> I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware and embedded systems[cite: 2].
+> I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware and embedded systems.
 > 
-> * 🖥️ **Currently working on:** 4-Layer PCB Designs, Microcontroller Breakouts (ATmega2560, ESP32-S3)[cite: 2]
-> * 🌱 **Actively learning:** Embedded IoT, VLSI Basics & Verilog[cite: 2]
-> * 💬 **Ask me about:** Schematic Design, Custom Footprints, Altium Designer, KiCad, Layer Stackups[cite: 2]
-> * 👥 **Open to collaborating on:** Open-source Hardware, PCB Layouts & Embedded Systems Projects[cite: 2]
-> * ⚡ **Fun fact:** I love designing custom electronic hardware from scratch![cite: 2]
+> * 🖥️ **Currently working on:** 4-Layer PCB Designs, Microcontroller Breakouts (ATmega2560, ESP32-S3)
+> * 🌱 **Actively learning:** Embedded IoT, VLSI Basics & Verilog
+> * 💬 **Ask me about:** Schematic Design, Custom Footprints, Altium Designer, KiCad, Layer Stackups
+> * 👥 **Open to collaborating on:** Open-source Hardware, PCB Layouts & Embedded Systems Projects
+> * ⚡ **Fun fact:** I love designing custom electronic hardware from scratch!
 
 
 
@@ -25,3 +25,24 @@
   </picture>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="220" alt="Tech Circuit GIF" />
 </div>
+
+### 📊 Stats and Activity
+
+#### 🔥 Streak Stats
+
+<a href="https://github.com/KING7EVEN-LABS">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KING7EVEN-LABS&theme=radical&hide_border=false" alt="GitHub Streak Stats" width="100%" />
+</a>
+
+<br/>
+
+#### 💻 GitHub Profile Stats
+
+<p align="center">
+  <a href="https://github.com/KING7EVEN-LABS">
+    <img src="https://github-readme-stats.vercel.app/api?username=KING7EVEN-LABS&show_icons=true&theme=radical&rank_icon=github&hide_border=false" alt="GitHub Stats" width="49.5%" />
+  </a>
+  <a href="https://github.com/KING7EVEN-LABS">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KING7EVEN-LABS&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="49.5%" />
+  </a>
+</p>

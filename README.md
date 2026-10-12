@@ -7,14 +7,15 @@
 <table border="0" style="border: none; background-color: #dd2049;; border-radius: 12px; padding: 15px;">
   <tr>
     <td width="65%" valign="top" style="border: none;">
-      <p style="color: #d35050;">I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware and embedded systems.</p>
-      <ul>
-        <li>🔭 <b>Currently working on:</b> 4-Layer PCB Designs, Microcontroller Breakouts (ATmega2560, ESP32-S3)</li>
-        <li>🌱 <b>Actively learning:</b> Embedded IoT, VLSI Basics & Verilog</li>
-        <li>💬 <b>Ask me about:</b> Schematic Design, Custom Footprints, Altium Designer, KiCad, Layer Stackups</li>
-        <li>👯 <b>Open to collaborating on:</b> Open-source Hardware, PCB Layouts & Embedded Systems Projects</li>
-        <li>⚡ <b>Fun fact:</b> I love designing custom electronic hardware from scratch!</li>
-      </ul>
+      > ### 💡 About Me
+      > 
+      > I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware and embedded systems.
+      > 
+      > * 🖥️ **Currently working on:** 4-Layer PCB Designs, Microcontroller Breakouts (ATmega2560, ESP32-S3).
+      > * 🌱 **Actively learning:** Embedded IoT, VLSI Basics & Verilog.
+      > * 💬 **Ask me about:** Schematic Design, Custom Footprints, Altium Designer, KiCad, Layer Stackups.
+      > * 👥 **Open to collaborating on:** Open-source Hardware, PCB Layouts & Embedded Systems Projects.
+      > * ⚡ **Fun fact:** I love designing custom electronic hardware from scratch!.
     </td>
     <td width="35%" align="center" valign="middle" style="border: none;">
       <picture>

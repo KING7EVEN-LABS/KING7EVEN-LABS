@@ -37,17 +37,17 @@ I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware
     <!-- Left Side: Streak Stats & Profile Stats -->
     <td width="50%" valign="top">
       <a href="https://github.com/KING7EVEN-LABS">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KING7EVEN-LABS&theme=radical&hide_border=false" alt="GitHub Streak Stats" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KING7EVEN-LABS&theme=rose_pine&fire=ff0000&ring=ff0000&sideburst=ff0000&currStreakNum=ff0000&hide_border=false" alt="GitHub Streak Stats" width="100%" />
       </a>
       <br/><br/>
       <a href="https://github.com/KING7EVEN-LABS">
-        <img src="https://github-readme-stats.vercel.app/api?username=KING7EVEN-LABS&show_icons=true&theme=radical&rank_icon=github&hide_border=false" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=KING7EVEN-LABS&show_icons=true&title_color=ff4d4d&text_color=ffffff&icon_color=ff4d4d&bg_color=0d1117&border_color=ff4d4d&rank_icon=github&hide_border=false" alt="GitHub Stats" width="100%" />
       </a>
     </td>
     <!-- Right Side: Most Used Languages -->
     <td width="50%" valign="top">
       <a href="https://github.com/KING7EVEN-LABS">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KING7EVEN-LABS&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KING7EVEN-LABS&layout=compact&title_color=ff4d4d&text_color=ffffff&icon_color=ff4d4d&bg_color=0d1117&border_color=ff4d4d&hide_border=false" alt="Top Languages" width="100%" />
       </a>
     </td>
   </tr>

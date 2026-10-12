@@ -48,18 +48,22 @@ I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware
 </table>
 
 
+<h2 align="center">🦋 FEATURED REPOSITORIES 🦋</h2>
+<br>
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <!-- Left Card (50% Width): Altium Design -->
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/KING7EVEN-LABS/PCB-DESIGN/tree/main/ALTIUM%20DESIGN" title="Altium Design - PCB Layouts">
-        <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=KING7EVEN-LABS&repo=PCB-DESIGN&title_color=f21d47&icon_color=f21d47&text_color=ffffff&bg_color=0d1117&border_color=f21d47&border_radius=10&show_owner=false" alt="Altium Design" />
+    <!-- Left Card: Altium Design -->
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/KING7EVEN-LABS/PCB-DESIGN/tree/main/ALTIUM%20DESIGN" title="Altium Design">
+        <img height="120" width="100%" style="object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=KING7EVEN-LABS&repo=PCB-DESIGN&title_color=f21d47&icon_color=f21d47&text_color=ffffff&bg_color=0d1117&border_color=f21d47&border_radius=10&show_owner=false" alt="Altium Design" />
       </a>
     </td>
-    <!-- Right Card (50% Width): KING7EVEN-LABS Profile -->
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/KING7EVEN-LABS/KING7EVEN-LABS" title="KING7EVEN LABS - Profile">
-        <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=KING7EVEN-LABS&repo=KING7EVEN-LABS&title_color=f21d47&icon_color=f21d47&text_color=ffffff&bg_color=0d1117&border_color=f21d47&border_radius=10&show_owner=false" alt="KING7EVEN LABS" />
+
+    <!-- Right Card: KING7EVEN-LABS Profile -->
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/KING7EVEN-LABS/KING7EVEN-LABS" title="KING7EVEN LABS">
+        <img height="120" width="100%" style="object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=KING7EVEN-LABS&repo=KING7EVEN-LABS&title_color=f21d47&icon_color=f21d47&text_color=ffffff&bg_color=0d1117&border_color=f21d47&border_radius=10&show_owner=false" alt="KING7EVEN LABS" />
       </a>
     </td>
   </tr>

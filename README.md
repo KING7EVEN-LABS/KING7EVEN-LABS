@@ -46,16 +46,23 @@ I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware
     </td>
   </tr>
 </table>
-<table>
+
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/KING7EVEN-LABS/PCB-DESIGN">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KING7EVEN-LABS&repo=PCB-DESIGN&title_color=f21d47&icon_color=f21d47&text_color=ffffff&bg_color=0d1117&border_color=f21d47&show_owner=false" width="100%" />
+    <!-- Card 1: Altium Design -->
+    <td width="50%" align="left" valign="top" style="background-color: #0d1117; border: 1px solid #f21d47; border-radius: 6px; padding: 16px;">
+      <a href="https://github.com/KING7EVEN-LABS/PCB-DESIGN/tree/main/ALTIUM%20DESIGN" style="text-decoration: none; color: #ffffff; display: block;">
+        <h3 style="color: #f21d47; margin: 0 0 8px 0; font-family: monospace;">📁 Altium Design</h3>
+        <p style="color: #c9d1d9; font-size: 14px; margin: 0 0 12px 0;">Multi-layer PCB layouts, schematics, and custom component footprints created with Altium Designer.</p>
+        <code style="color: #f21d47; background: #161b22; padding: 2px 6px; border-radius: 4px; font-size: 12px;">Altium Designer</code>
       </a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/KING7EVEN-LABS/KING7EVEN-LABS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KING7EVEN-LABS&repo=KING7EVEN-LABS&title_color=f21d47&icon_color=f21d47&text_color=ffffff&bg_color=0d1117&border_color=f21d47&show_owner=false" width="100%" />
+    <!-- Card 2: KING7EVEN LABS Profile -->
+    <td width="50%" align="left" valign="top" style="background-color: #0d1117; border: 1px solid #f21d47; border-radius: 6px; padding: 16px;">
+      <a href="https://github.com/KING7EVEN-LABS/KING7EVEN-LABS" style="text-decoration: none; color: #ffffff; display: block;">
+        <h3 style="color: #f21d47; margin: 0 0 8px 0; font-family: monospace;">🦋 KING7EVEN LABS</h3>
+        <p style="color: #c9d1d9; font-size: 14px; margin: 0 0 12px 0;">Transforming concepts into reality | KING7EVEN-LABS.</p>
+        <code style="color: #f21d47; background: #161b22; padding: 2px 6px; border-radius: 4px; font-size: 12px;">GitHub Profile</code>
       </a>
     </td>
   </tr>

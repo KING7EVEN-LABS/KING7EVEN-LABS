@@ -55,11 +55,10 @@ I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware
   <tr>
     <!-- Left Card: Altium Design -->
     <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/KING7EVEN-LABS/PCB-DESIGN/tree/main/ALTIUM%20DESIGN" title="Altium Design">
-        <img height="120" width="100%" style="object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=KING7EVEN-LABS&repo=PCB-DESIGN&title_color=f21d47&icon_color=f21d47&text_color=ffffff&bg_color=0d1117&border_color=f21d47&border_radius=10&show_owner=false" alt="Altium Design" />
+      <a href="https://github.com/KING7EVEN-LABS/PCB-DESIGN" title="PCB-DESIGN">
+        <img height="120" width="100%" style="object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=KING7EVEN-LABS&repo=PCB-DESIGN&title_color=f21d47&icon_color=f21d47&text_color=ffffff&bg_color=0d1117&border_color=f21d47&border_radius=10&show_owner=false" alt="PCB-DESIGN" />
       </a>
     </td>
-
     <!-- Right Card: KING7EVEN-LABS Profile -->
     <td width="50%" align="center" valign="middle">
       <a href="https://github.com/KING7EVEN-LABS/KING7EVEN-LABS" title="KING7EVEN LABS">

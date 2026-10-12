@@ -7,7 +7,7 @@
 <table border="0" style="border: none; background-color: #dd2049;; border-radius: 12px; padding: 15px;">
   <tr>
     <td width="65%" valign="top" style="border: none;">
-      <p style="color: #ffffff;">I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware and embedded systems.</p>
+      <p style="color: #d35050;">I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware and embedded systems.</p>
       <ul>
         <li>🔭 <b>Currently working on:</b> 4-Layer PCB Designs, Microcontroller Breakouts (ATmega2560, ESP32-S3)</li>
         <li>🌱 <b>Actively learning:</b> Embedded IoT, VLSI Basics & Verilog</li>

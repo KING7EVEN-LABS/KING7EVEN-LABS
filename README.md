@@ -28,7 +28,7 @@
 </table>
 
 <h2 align="center">
-  <img src="./assets/time.png" width="28" height="28" valign="middle"/> States and Activity
+  <img src="./assets/time.png" width="28" height="28" valign="middle"/> States and Activity<img src="./assets/time1.png" width="28" height="28" valign="middle"/>
 </h2>
 
 <table>

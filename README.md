@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">
-  <img src="./assets/fire.png" width="28" height="28" valign="middle"/> ABOUT ME
+  <img src="./assets/fire.png" width="28" height="28" valign="middle"/> About me<img src="./assets/Grinning_Cat.png" width="28" height="28" valign="middle"/> 
 </h2>
 
 <table>

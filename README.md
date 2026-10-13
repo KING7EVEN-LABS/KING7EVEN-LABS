@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">
-  <img src="./assets/fire.png" width="28" height="28" valign="middle"/> ABOUT ME <img src="./assets/fire.png" width="28" height="28" valign="middle"/>
+  <img src="./assets/fire.png" width="28" height="28" valign="middle"/> ABOUT ME
 </h2>
 
 <table>
@@ -27,7 +27,9 @@
   </tr>
 </table>
 
-### <p align="center"> 📊 Stats and Activity </p>
+<h2 align="center">
+  <img src="./assets/time.png" width="28" height="28" valign="middle"/> States and Activity
+</h2>
 
 <table>
   <tr>

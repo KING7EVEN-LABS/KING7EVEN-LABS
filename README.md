@@ -20,7 +20,7 @@ I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware
     </td>
     <td width="50%" valign="top">
       <p>
-      <img src="assets/Git_cat.gif" alt="HI THERE" width="100%" style="border-radius: 10px;" />
+      <img src="assets/Git_cat.gif" alt="HI THERE"/>
       </p>
 
     </td>

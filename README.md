@@ -24,7 +24,7 @@ I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware
   </tr>
 </table>
 
-###<p align="center"> 📊 Stats and Activity </p>
+### <p align="center"> 📊 Stats and Activity </p>
 
 <table>
   <tr>

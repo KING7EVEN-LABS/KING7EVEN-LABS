@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&color=%23F21D47&center=true&vCenter=true&width=750&height=65&lines=EMBEDDED+and+IoT;HARDWARE+DESIGN;PCB+DESIGN;NETWOK+ENGINEERING" alt="Arcade Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&color=%23F21D47&center=true&vCenter=true&width=750&height=65&lines=EMBEDDED+and+IoT+|+NETWORK;PCB+DESIGN+-+ALTIUM+|+KiCad;" alt="Arcade Typing SVG" />
   </a>
 </div>
 

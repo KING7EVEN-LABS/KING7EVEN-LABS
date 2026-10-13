@@ -6,7 +6,7 @@
 <h1 align="center">Hi There ! I'm Kousik</h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&color=%23F21D47&center=true&vCenter=true&width=600&height=50&lines=EMBEDDED+%26+IOT;HARDWARE+%26+PCB+DESIGN;NETWORK+ENGINEERING;SYSTEM+INTEGRATION" alt="Arcade Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=3000&color=%23F21D47&center=true&vCenter=true&width=600&height=50&lines=embedded+and+iot;hardware+design;pcb+design;network+engineering" alt="Arcade Typing SVG" />
   </a>
 </div>
 

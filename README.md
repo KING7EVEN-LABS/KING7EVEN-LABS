@@ -3,9 +3,10 @@
         <img src="assets/Git_butterfly.gif" alt="PCB Header Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
+<h2 align="center">
+  <img src="./assets/fire.png" width="28" height="28" valign="middle"/> ABOUT ME <img src="./assets/fire.png" width="28" height="28" valign="middle"/>
+</h2>
 
-
-### <p align="center"> 💡 About Me </p>
 <table>
   <tr>
     <td width="50%" valign="top">

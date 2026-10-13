@@ -19,6 +19,9 @@ I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware
 * ⚡ **Fun fact:** I love designing custom electronic hardware from scratch!
     </td>
     <td width="50%" valign="top">
+      <p>
+      <img src="assets/Git_cat.gif" alt="HI THERE" width="100%" style="border-radius: 10px;" />
+      </p>
 
     </td>
   </tr>

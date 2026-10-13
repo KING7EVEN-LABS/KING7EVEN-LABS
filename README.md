@@ -3,7 +3,12 @@
         <img src="assets/Git_butterfly.gif" alt="PCB Header Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
-<h1 align="center"><font color="#f21d47">Hi There ! I'm Kousik</font></h1>
+<h1 align="center">Hi There ! I'm Kousik</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&color=%23F21D47&center=true&vCenter=true&width=600&height=50&lines=EMBEDDED+%26+IOT;HARDWARE+%26+PCB+DESIGN;NETWORK+ENGINEERING;SYSTEM+INTEGRATION" alt="Arcade Typing SVG" />
+  </a>
+</div>
 
 <h2 align="center">
   <img src="./assets/fire.png" width="28" height="28" valign="middle"/> About me <img src="./assets/Grinning_Cat.png" width="28" height="28" valign="middle"/> 

@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">
-  <img src="./assets/fire.png" width="28" height="28" valign="middle"/> About me<img src="./assets/Grinning_Cat.png" width="28" height="28" valign="middle"/> 
+  <img src="./assets/fire.png" width="28" height="28" valign="middle"/> About me <img src="./assets/Grinning_Cat.png" width="28" height="28" valign="middle"/> 
 </h2>
 
 <table>
@@ -28,7 +28,7 @@
 </table>
 
 <h2 align="center">
-  <img src="./assets/time.png" width="28" height="28" valign="middle"/> States and Activity
+  <img src="./assets/time.png" width="28" height="28" valign="middle"/> States and Activity <img src="./assets/HandShake.png" width="28" height="28" valign="middle"/>
 </h2>
 
 <table>
@@ -53,7 +53,7 @@
 </table>
 
 <h2 align="center">
-  <img src="./assets/Alien_Monster.png" width="28" height="28" valign="middle"/> Pacman eating my Contribution
+  <img src="./assets/Alien_Monster.png" width="28" height="28" valign="middle"/> Pacman eating my Contribution <img src="./assets/Video_Game.png" width="28" height="28" valign="middle"/>
 </h2>
 
 <div align="center">

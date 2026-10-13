@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware and embedded systems.
+<h3> I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware and embedded systems.</h3>
 
 * 🖥️ **Currently working on:** 4-Layer PCB Designs, Microcontroller Breakouts (ATmega2560, ESP32-S3)
 * 🌱 **Actively learning:** Embedded IoT, VLSI Basics & Verilog

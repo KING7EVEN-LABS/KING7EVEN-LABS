@@ -5,8 +5,7 @@
 
 
 
-### 💡 About Me
-
+### <p align="center"> 💡 About Me </p>
 <table>
   <tr>
     <td width="50%" valign="top">

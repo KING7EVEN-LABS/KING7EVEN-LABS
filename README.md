@@ -3,6 +3,8 @@
         <img src="assets/Git_butterfly.gif" alt="PCB Header Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
+<h1 align="center"><font color="#f21d47">Hi There ! I'm Kousik</font></h1>
+
 <h2 align="center">
   <img src="./assets/fire.png" width="28" height="28" valign="middle"/> About me <img src="./assets/Grinning_Cat.png" width="28" height="28" valign="middle"/> 
 </h2>

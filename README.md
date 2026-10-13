@@ -28,7 +28,7 @@
 </table>
 
 <h2 align="center">
-  <img src="./assets/time.png" width="28" height="28" valign="middle"/> States and Activity<img src="./assets/time1.gif" width="35" height="35" valign="middle"/>
+  <img src="./assets/time.png" width="28" height="28" valign="middle"/> States and Activity
 </h2>
 
 <table>
@@ -51,6 +51,10 @@
     </td>
   </tr>
 </table>
+
+<h2 align="center">
+  <img src="./assets/Alien_Monster.png" width="28" height="28" valign="middle"/> Pacman eating my Contribution
+</h2>
 
 <div align="center">
   <picture>

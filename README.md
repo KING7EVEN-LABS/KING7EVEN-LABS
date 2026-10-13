@@ -1,6 +1,6 @@
 
 <p align="center">
-        <img src="assets/KING7EVEN_kousik.gif" alt="PCB Header Banner" width="100%" style="border-radius: 10px;" />
+        <img src="assets/Git_butterfly.gif" alt="PCB Header Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
 

@@ -33,11 +33,8 @@
     </td>
   </tr>
 </table>
-| Category | Technologies / Tools |
-| :--- | :--- |
-| **💻 Programming Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32" height="32" alt="C" style="vertical-align:middle; margin-right: 8px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" height="32" alt="C++" style="vertical-align:middle; margin-right: 8px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" alt="Python" style="vertical-align:middle; margin-right: 8px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" height="32" alt="Java" style="vertical-align:middle; margin-right: 8px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" height="32" alt="HTML5" style="vertical-align:middle; margin-right: 8px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" height="32" alt="CSS3" style="vertical-align:middle; margin-right: 8px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" style="vertical-align:middle;" /> |
-| **🛠️ Tools & Platforms** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="32" height="32" alt="Arduino" style="vertical-align:middle; margin-right: 8px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="32" height="32" alt="Raspberry Pi" style="vertical-align:middle; margin-right: 8px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="32" height="32" alt="VS Code" style="vertical-align:middle; margin-right: 8px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" height="32" alt="GitHub" style="vertical-align:middle;" /> |
-| **⚡ PCB Design & EDA** | <img src="https://img.shields.io/badge/Altium%20Designer-%236B1414?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer" /> &nbsp; <img src="https://img.shields.io/badge/KiCad-%236B1414?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" /> |
+
+
 
 <h2 align="center">
   <img src="./assets/time.png" width="28" height="28" valign="middle"/> States and Activity <img src="./assets/Handshake.png" width="28" height="28" valign="middle"/>

@@ -27,7 +27,7 @@
     </td>
     <td width="50%" valign="top">
       <p>
-      <img src="assets/Git_cat.gif" alt="HI THERE"/>
+      <img src="assets/cybernetic-teen-engineer.jpg" alt="HI THERE"/>
       </p>
 
     </td>

@@ -110,7 +110,7 @@
 </div>
 
 <h2 align="center">
-  <img src="./assets/Alien_Monster.png" width="28" height="28" valign="middle"/> Pacman eating my Contribution <img src="./assets/Video_Game.png" width="28" height="28" valign="middle"/>
+  <img src="./assets/Ghost.png" width="28" height="28" valign="middle"/> Pacman eating my Contribution <img src="./assets/Jack-O-Lantern.png" width="28" height="28" valign="middle"/>
 </h2>
 
 <div align="center">

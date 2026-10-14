@@ -86,7 +86,7 @@
 </table>
 
 <h2 align="center">
-  <img src="./assets/Handbag.png" width="28" height="28" valign="middle"/> Connect with Me <img src="./assets/Slightly_Smiling_Face.png" width="28" height="28" valign="middle"/>
+  <img src="./assets/Crown.png" width="28" height="28" valign="middle"/> Connect with Me <img src="./assets/Headstone.png" width="28" height="28" valign="middle"/>
 </h2>
 <div align="center">
  <a href="https://github.com/KING7EVEN-LABS">

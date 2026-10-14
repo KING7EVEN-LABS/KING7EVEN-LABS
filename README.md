@@ -95,7 +95,7 @@
   <a href="mailto:kousikings.eve.n7@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://wa.me/919566144686"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=flat&logo=whatsapp&logoColor=white"></a>
   <a href="https://instagram.com/kousiking_s_eve_n"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white"></a>
-  <a href="https://www.chess.com/member/king_072000"><img alt="Chess" src="https://img.shields.io/badge/Chess.com-7FA650.svg?style=flat&logo=chess.com&logoColor=white"></a>
+  <a href="https://www.chess.com/member/king_072000"><img alt="Chess" src="https://img.shields.io/badge/Chess-7FA650.svg?style=flat&logo=chess.com&logoColor=white"></a>
 </p>
 
 <h2 align="center">

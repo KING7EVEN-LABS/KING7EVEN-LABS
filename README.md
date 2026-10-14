@@ -53,12 +53,10 @@
   <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/SnapMagic-%23FF4F00.svg?style=for-the-badge&logo=snapcraft&logoColor=white" alt="SnapMagic">
-  <img src="https://img.shields.io/badge/Ultra_Librarian-%23000000.svg?style=for-the-badge&logo=elementor&logoColor=white" alt="UltraLibrarian">
-  <img src="https://img.shields.io/badge/Mouser-%23004B87.svg?style=for-the-badge&logo=mouser&logoColor=white" alt="Mouser">
   <img src="https://img.shields.io/badge/DigiKey-%23CC0000.svg?style=for-the-badge&logo=digikey&logoColor=white" alt="DigiKey">
   <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Gemini_AI-%238E75B2.svg?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI">
+  <img src="https://raw.githubusercontent.com/KING7EVEN-LABS" alt="Kousik Profile Image" width="300" />
 </p>
 
 

@@ -86,17 +86,14 @@
 </table>
 
 <h2 align="center">
-  <img src="./assets/Alien_Monster.png" width="28" height="28" valign="middle"/> Connect with Me <img src="./assets/Video_Game.png" width="28" height="28" valign="middle"/>
+  <img src="./assets/Handbag.png" width="28" height="28" valign="middle"/> Connect with Me <img src="./assets/Slightly_Smiling_Face.png" width="28" height="28" valign="middle"/>
 </h2>
-<p align="left">
-  <img src="YOUR_EMOJI_OR_AVATAR_LINK_HERE" alt="Avatar" width="120" align="left" style="margin-right: 20px;" />
-  
   <a href="https://github.com/KING7EVEN-LABS">
     <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=f21d47" alt="GitHub" />
     <img src="https://img.shields.io/badge/KOUSIK_P-0d1117?style=for-the-badge&logoColor=white" alt="Username" />
   </a>
   <br>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/kousik-p-a99b4b283">
     <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=f21d47" alt="LinkedIn" />
     <img src="https://img.shields.io/badge/KOUSIK_P-0d1117?style=for-the-badge&logoColor=white" alt="Name" />
   </a>
@@ -106,7 +103,7 @@
     <img src="https://img.shields.io/badge/KOUSIKINGS.EVE.N7%40GMAIL.COM-0d1117?style=for-the-badge&logoColor=white" alt="Email" />
   </a>
   <br>
-  <a href="tel:+919566144686">
+  <a href="https://wa.me/919566144686">
     <img src="https://img.shields.io/badge/WHATSAPP-0d1117?style=for-the-badge&logo=whatsapp&logoColor=f21d47" alt="WhatsApp" />
     <img src="https://img.shields.io/badge/%2B91_9566144686-0d1117?style=for-the-badge&logoColor=white" alt="Phone" />
   </a>

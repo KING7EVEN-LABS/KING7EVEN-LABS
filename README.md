@@ -103,6 +103,10 @@
   </a>
   <a href="https://instagram.com/kousiking_s_eve_n">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.chess.com/member/king_my_real">
+    <img src="https://img.shields.io/badge/CHESS.COM-7FA650?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess" />
+  </a>
 </div>
 
 <h2 align="center">

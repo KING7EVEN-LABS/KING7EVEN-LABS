@@ -89,26 +89,14 @@
 <h2 align="center">
   <img src="./assets/Crown.png" width="28" height="28" valign="middle"/> Connect with Me <img src="./assets/Smiling.png" width="28" height="28" valign="middle"/>
 </h2>
-<div align="center">
- <a href="https://github.com/KING7EVEN-LABS">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/kousik-p-a99b4b283">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kousikings.eve.n7@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/919566144686">
-    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://instagram.com/kousiking_s_eve_n">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.chess.com/member/king_072000">
-    <img src="https://img.shields.io/badge/CHESS-7FA650?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess" />
-  </a>
-</div>
+<p>
+  <a href="https://github.com/KING7EVEN-LABS"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/kousik-p-a99b4b283"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:kousikings.eve.n7@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/919566144686"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=flat&logo=whatsapp&logoColor=white"></a>
+  <a href="https://instagram.com/kousiking_s_eve_n"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white"></a>
+  <a href="https://www.chess.com/member/king_072000"><img alt="Chess" src="https://img.shields.io/badge/Chess.com-7FA650.svg?style=flat&logo=chess.com&logoColor=white"></a>
+</p>
 
 <h2 align="center">
   <img src="./assets/Ghost.png" width="28" height="28" valign="middle"/> Pacman eating my Contribution <img src="./assets/Jack-O-Lantern.png" width="28" height="28" valign="middle"/>

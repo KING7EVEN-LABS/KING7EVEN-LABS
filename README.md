@@ -36,6 +36,30 @@
   </tr>
 </table>
 
+<h2 align="center">
+  <img src="./assets/Laptop.png" width="28" height="28" valign="middle"/> Languages & Tech Stack <img src="./assets/Guitar.png" width="28" height="28" valign="middle"/>
+</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Altium_Designer-%236B1414.svg?style=for-the-badge&logo=altium-designer&logoColor=white" alt="Altium">
+  <img src="https://img.shields.io/badge/KiCad-%23316CE8.svg?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad">
+  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/SnapMagic-%23FF4F00.svg?style=for-the-badge&logo=snapcraft&logoColor=white" alt="SnapMagic">
+  <img src="https://img.shields.io/badge/Ultra_Librarian-%23000000.svg?style=for-the-badge&logo=elementor&logoColor=white" alt="UltraLibrarian">
+  <img src="https://img.shields.io/badge/Mouser-%23004B87.svg?style=for-the-badge&logo=mouser&logoColor=white" alt="Mouser">
+  <img src="https://img.shields.io/badge/DigiKey-%23CC0000.svg?style=for-the-badge&logo=digikey&logoColor=white" alt="DigiKey">
+  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Gemini_AI-%238E75B2.svg?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI">
+</p>
 
 
 <h2 align="center">

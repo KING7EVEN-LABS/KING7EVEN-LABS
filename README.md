@@ -101,10 +101,10 @@
   <a href="https://wa.me/919566144686">
     <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://instagram.com/king_072000">
+  <a href="https://instagram.com/kousiking_s_eve_n">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.chess.com/member/king_my_real">
+  <a href="https://www.chess.com/member/king_072000">
     <img src="https://img.shields.io/badge/CHESS.COM-7FA650?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess" />
   </a>
 </div>

@@ -88,27 +88,20 @@
 <h2 align="center">
   <img src="./assets/Handbag.png" width="28" height="28" valign="middle"/> Connect with Me <img src="./assets/Slightly_Smiling_Face.png" width="28" height="28" valign="middle"/>
 </h2>
-  <a href="https://github.com/KING7EVEN-LABS">
-    <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=f21d47" alt="GitHub" />
-    <img src="https://img.shields.io/badge/KOUSIK_P-0d1117?style=for-the-badge&logoColor=white" alt="Username" />
+<div align="center">
+ <a href="https://github.com/KING7EVEN-LABS">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <br>
   <a href="https://linkedin.com/in/kousik-p-a99b4b283">
-    <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=f21d47" alt="LinkedIn" />
-    <img src="https://img.shields.io/badge/KOUSIK_P-0d1117?style=for-the-badge&logoColor=white" alt="Name" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <br>
   <a href="mailto:kousikings.eve.n7@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=f21d47" alt="Gmail" />
-    <img src="https://img.shields.io/badge/KOUSIKINGS.EVE.N7%40GMAIL.COM-0d1117?style=for-the-badge&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <br>
   <a href="https://wa.me/919566144686">
-    <img src="https://img.shields.io/badge/WHATSAPP-0d1117?style=for-the-badge&logo=whatsapp&logoColor=f21d47" alt="WhatsApp" />
-    <img src="https://img.shields.io/badge/%2B91_9566144686-0d1117?style=for-the-badge&logoColor=white" alt="Phone" />
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-</p>
-<br clear="left"/>
+</div>
 
 <h2 align="center">
   <img src="./assets/Alien_Monster.png" width="28" height="28" valign="middle"/> Pacman eating my Contribution <img src="./assets/Video_Game.png" width="28" height="28" valign="middle"/>

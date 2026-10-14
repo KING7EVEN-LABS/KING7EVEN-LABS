@@ -17,13 +17,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-<h3> I'm a passionate PCB Design Engineer dedicated to creating high-quality hardware and embedded systems.</h3>
 
-* 🖥️ **Currently working on:** 4-Layer PCB Designs, Microcontroller Breakouts (ATmega2560, ESP32-S3)
-* 🌱 **Actively learning:** Embedded IoT, VLSI Basics & Verilog
-* 💬 **Ask me about:** Schematic Design, Custom Footprints, Altium Designer, KiCad, Layer Stackups
-* 👥 **Open to collaborating on:** Open-source Hardware, PCB Layouts & Embedded Systems Projects
-* ⚡ **Fun fact:** I love designing custom electronic hardware from scratch!
+- 🎓 **Education & Background:** Graduated in **Electronics and Communication Engineering (ECE)** with a rigorous academic foundation, building a strong core in analog/digital electronics and system design.
+- 💡 **Core Passion & Philosophy:** Deeply passionate about hardware design, custom PCB layouts, and embedded systems. I believe in transforming abstract circuit concepts into high-performance, physical reality—from custom breakout boards to multi-layer industrial hardware.
+- 💻 **Technical Skillset:**
+  - **PCB Design & EDA:** Multi-layer board layouts, schematic capture, stackup planning, and custom footprint libraries using **Altium Designer** and **KiCad**.
+  - **Embedded Systems & IoT:** Firmware development and hardware-software integration across **C**, **Embedded C**, and communication protocols (**SPI, I2C, UART, Ethernet**).
+  - **Programming & Networking:** Proficient in **Python**, **C**, and foundational networking configurations.
+- 🎯 **Future Roadmap & Aspirations:** Actively upskilling and expanding expertise into **VLSI design** and **Edge AI**, with a long-term goal of stepping into chip-level integration and advanced silicon architecture.
     </td>
     <td width="50%" valign="top">
       <p>

@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Altium_Designer-%236B1414.svg?style=for-the-badge&logo=altium-designer&logoColor=white" alt="Altium">
+  <img src="https://img.shields.io/badge/Altium_Design-%236B1414.svg?style=for-the-badge&logo=altium-designer&logoColor=white" alt="Altium">
   <img src="https://img.shields.io/badge/KiCad-%23316CE8.svg?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad">
   <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
 </p>

@@ -94,11 +94,12 @@
   <a href="https://linkedin.com/in/kousik-p-a99b4b283"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://discord.com/"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=discord&logoColor=white"></a>
   <a href="https://www.youtube.com/"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=flat&logo=youtube&logoColor=white"></a>
+  <a href="https://www.chess.com/member/king_072000"><img alt="Chess" src="https://img.shields.io/badge/Chess-7FA650.svg?style=flat&logo=chess.com&logoColor=white"></a>
   <a href="https://twitter.com/kousik_s_eve_n"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=flat&logo=twitter&logoColor=white"></a>
   <a href="mailto:kousikings.eve.n7@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://wa.me/919566144686"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=flat&logo=whatsapp&logoColor=white"></a>
   <a href="https://instagram.com/kousiking_s_eve_n"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white"></a>
-  <a href="https://www.chess.com/member/king_072000"><img alt="Chess" src="https://img.shields.io/badge/Chess-7FA650.svg?style=flat&logo=chess.com&logoColor=white"></a>
+  
 </p>
 
 <h2 align="center">

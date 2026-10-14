@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/DigiKey-%23CC0000.svg?style=for-the-badge&logo=digikey&logoColor=white" alt="DigiKey">
   <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Gemini_AI-%238E75B2.svg?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI">
-  <img src="https://raw.githubusercontent.com/KING7EVEN-LABS" alt="Kousik Profile Image" width="300" />
+   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 

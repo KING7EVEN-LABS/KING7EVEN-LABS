@@ -89,7 +89,7 @@
 <h2 align="center">
   <img src="./assets/Crown.png" width="28" height="28" valign="middle"/> Connect with Me <img src="./assets/Smiling.png" width="28" height="28" valign="middle"/>
 </h2>
-<p>
+<p align="center">
   <a href="https://github.com/KING7EVEN-LABS"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white"></a>
   <a href="https://linkedin.com/in/kousik-p-a99b4b283"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="mailto:kousikings.eve.n7@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=gmail&logoColor=white"></a>

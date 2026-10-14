@@ -47,17 +47,17 @@
   <a href="https://github.com/search?q=user%3AKING7EVEN-LABS+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat&logo=css3&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AKING7EVEN-LABS+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black"></a>
 </p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Altium_Design-%236B1414.svg?style=for-the-badge&logo=altium-designer&logoColor=white" alt="Altium">
-  <img src="https://img.shields.io/badge/KiCad-%23316CE8.svg?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad">
-  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+<p>
+  <a href="https://github.com/search?q=user%3AKING7EVEN-LABS+topic%3Aaltium"><img alt="Altium Designer" src="https://img.shields.io/badge/Altium-1E1E1E.svg?style=flat&logo=cpu&logoColor=FF4500"></a>
+  <a href="https://github.com/search?q=user%3AKING7EVEN-LABS+topic%3Akicad"><img alt="KiCad" src="https://img.shields.io/badge/KiCad-316CE8.svg?style=flat&logo=kicad&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AKING7EVEN-LABS+topic%3Aarduino"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D.svg?style=flat&logo=Arduino&logoColor=white"></a>
 </p>
-<p align="left">
-  <img src="https://img.shields.io/badge/DigiKey-%23CC0000.svg?style=for-the-badge&logo=digikey&logoColor=white" alt="DigiKey">
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Gemini_AI-%238E75B2.svg?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude AI" />
-   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<p>
+  <a href="https://github.com/search?q=user%3AKING7EVEN-LABS+topic%3Adigikey"><img alt="DigiKey" src="https://img.shields.io/badge/DigiKey-CC0000.svg?style=flat&logo=digikey&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AKING7EVEN-LABS+topic%3Avscode"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AKING7EVEN-LABS+topic%3Agemini"><img alt="Gemini AI" src="https://img.shields.io/badge/Gemini_AI-8E75B2.svg?style=flat&logo=google-gemini&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AKING7EVEN-LABS+topic%3Aclaude"><img alt="Claude AI" src="https://img.shields.io/badge/Claude-D97757.svg?style=flat&logo=claude&logoColor=white"></a>
+  <a href="https://github.com/KING7EVEN-LABS"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white"></a>
 </p>
 
 

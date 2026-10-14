@@ -101,6 +101,8 @@
   <a href="https://wa.me/919566144686">
     <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
+  <a href="https://instagram.com/kousiking_s_eve_n">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </div>
 
 <h2 align="center">

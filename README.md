@@ -18,7 +18,7 @@
   <tr>
     <td width="50%" valign="top">
 
-- 🎓 **Education & Background:** Graduated in **Electronics and Communication Engineering (ECE)** with a rigorous academic foundation, building a strong core in analog/digital electronics and system design.
+- 🎓 **Education & Background:** Graduated in **Electronics and Communication Engineering (ECE)**, building a strong core in analog/digital electronics and system design.
 - 💡 **Core Passion & Philosophy:** Deeply passionate about hardware design, custom PCB layouts, and embedded systems. I believe in transforming abstract circuit concepts into high-performance, physical reality—from custom breakout boards to multi-layer industrial hardware.
 - 🛡️ **Hardware Reliability & Standards:** Focused on robust design practices including signal integrity, power integrity, ESD/EMI protection, and component-level optimization for industrial-grade reliability.
 - 💻 **Technical Skillset:**
